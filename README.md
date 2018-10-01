@@ -1,5 +1,6 @@
-# Borris Bikes style up my G
-
+# Project
+    ID = 1
+    Name = Borris Bikes
 ## Spec:
     Technology - Ruby 2.3.4p301
     IDE - ide.c9.io (AWS)
